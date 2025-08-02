@@ -1,0 +1,5 @@
+pip install torch torchvision torchaudio --extra-index-url https://download.pytorch.org/whl/cu117
+pip install moviepy
+pip install transformers
+pip install whisperx
+pip install banglaspeech2text
